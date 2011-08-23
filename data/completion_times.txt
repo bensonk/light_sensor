@@ -1,0 +1,3 @@
+-rw-rw-r-- 1 bensonk bensonk 133000 2011-08-18 20:18 light_sensor.csv
+-rw-rw-r-- 1 bensonk bensonk  53686 2011-08-20 21:10 light_sensor_evening_Aug_20.csv
+-rw-rw-r-- 1 bensonk bensonk 319002 2011-08-22 21:11 light_sensor_night_to_morning_Aug_22.csv
